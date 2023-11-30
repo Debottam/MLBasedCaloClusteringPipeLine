@@ -10,7 +10,7 @@ We completed initial Data preparation to use meaningful features of 187K cells o
 
 <img width="417" alt="Screen Shot 2023-11-30 at 3 54 34 PM" src="https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/60254eb6-8b09-4174-bae8-4d1212bc9bad">
 
-The following features are of interest
+## The following features are of interest
 
 ```
 Geometric features:
@@ -38,4 +38,6 @@ In the file `pairWiseHingeLossAlgo.ipynb` the first half of the pipeline
 
 <img width="425" alt="Screen Shot 2023-11-30 at 4 10 58 PM" src="https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/9aae0da1-69f5-4cb4-b744-4c17ec429ea1">
 
-
+## Files prepared so far:
+1. #### pairingDatapointsForHingeLoss: prepares data with the above-mentioned features in pair forms pair_set.hdf5 and nopair_set.hdf5
+2. #### pairWiseHingeLossAlgo: trains an embedding space with pairwise hingeloss using pair_set.hdf5 and nopair_set.hdf5
