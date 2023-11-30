@@ -34,3 +34,8 @@ Also a detailed visualization of calorimeter structure is also available
 
 ![Visualization-of-the-ATLAS-calorimeter-readout-geometry-The-three-subsystems-Tile](https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/77601508-3a95-42cc-8457-ea14a463a8b0)
 
+In the file `pairWiseHingeLossAlgo.ipynb` the first half of the pipeline 
+
+<img width="761" alt="Screen Shot 2023-11-30 at 4 10 58 PM" src="https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/9aae0da1-69f5-4cb4-b744-4c17ec429ea1">
+
+
