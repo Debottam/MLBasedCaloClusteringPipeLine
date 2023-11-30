@@ -36,6 +36,6 @@ Also a detailed visualization of calorimeter structure is also available
 
 In the file `pairWiseHingeLossAlgo.ipynb` the first half of the pipeline 
 
-<img width="761" alt="Screen Shot 2023-11-30 at 4 10 58 PM" src="https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/9aae0da1-69f5-4cb4-b744-4c17ec429ea1">
+<img width="425" alt="Screen Shot 2023-11-30 at 4 10 58 PM" src="https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/9aae0da1-69f5-4cb4-b744-4c17ec429ea1">
 
 
