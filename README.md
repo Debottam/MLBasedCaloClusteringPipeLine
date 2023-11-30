@@ -19,12 +19,18 @@ Geometric features:
 3. cell_coordinate_z (mm)
 4. cell_subCalo : LAREM = 0, LARHEC = 1, LARFCAL = 2, TILE = 3, LARMINIFCAL = 4, NSUBCALO = 5,
 5. cell_sampling : More granular information of the subcalo above
+
 Deposited energy related features:
 6. cell_SNR : signal to noise ratio of a cell
 7. cell_e : Energy deposited in a cell in MeV
+
 Topocluster related cell features:
 8. cell_truth : 0/1 whether cell takes part in a cluster or not
 9. cell_weight : could have more than 1 entry (value 0 to 1) but using the max weight for simplicity
 10. cell_to_cluster_index : index/id of the cluster where the cell has maximum weight (again for initial study)
 11. cell_to_cluster_e : energy of the cluster where the cell has maximum weight (again for initial study)
 ```
+Also a detailed visualization of calorimeter structure is also available
+
+![Visualization-of-the-ATLAS-calorimeter-readout-geometry-The-three-subsystems-Tile](https://github.com/Debottam/MLBasedCaloClusteringPipeLine/assets/34949953/77601508-3a95-42cc-8457-ea14a463a8b0)
+
